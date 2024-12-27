@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": "d6ce",
+      "name": "susan",
+      "email": "susan@gmail.com"
+    },
+    {
+      "id": "b98d",
+      "name": "john",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "f661",
+      "name": "john",
+      "email": "john@gmail.com"
+    }
+  ],
+
+  "todos": [
+    {
+      "id": "1",
+      "text": "Learn React",
+      "completed": true
+    },
+    {
+      "id": "a185",
+      "text": "new item",
+      "completed": true
+    }
+  ]
+}
